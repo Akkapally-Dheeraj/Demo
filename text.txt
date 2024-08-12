@@ -1,0 +1,5 @@
+GIT is of 4 types
+1)Remote Repository
+2)Local Repository
+3)Starting area
+4)Working directory
